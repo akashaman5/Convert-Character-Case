@@ -1,0 +1,2 @@
+# Convert-Character-Case
+I created this utility for one of the use-cases in my current company where during production data root cause analysis, we had to convert several lower case Comos ID(stored in SQL Server) to upper case so that the cosmos ID can be traced back and used in Cosmos DB without consuming much time. Right now, i have left the code pretty generic so that it converts lower case to upper case and vice-versa.
